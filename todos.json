@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Create an endpoint at Beeceptor.",
+    "user_id": 1,
+    "status": "done",
+    "comments": [
+      {
+        "message": "Initial setup completed.",
+        "created_at": "2024-07-01T10:00:00Z"
+      }
+    ],
+    "order": 1,
+    "image": "https://via.placeholder.com/150",
+    "completion_date": "2024-09-01"
+  },
+  {
+    "id": 2,
+    "title": "Send a request to your new Beeceptor endpoint.",
+    "user_id": 2,
+    "status": "done",
+    "comments": [
+      {
+        "message": "Request sent successfully.",
+        "created_at": "2024-07-02T11:00:00Z"
+      }
+    ],
+    "order": 2,
+    "image": "https://via.placeholder.com/150",
+    "completion_date": "2024-12-15"
+  },
+  {
+    "id": 3,
+    "title": "Create a mocking rule to send dummy data.",
+    "user_id": 3,
+    "status": "todo",
+    "comments": [
+      {
+        "message": "Mocking rule needs to be created.",
+        "created_at": "2024-07-03T12:00:00Z"
+      }
+    ],
+    "order": 1,
+    "image": "https://via.placeholder.com/150",
+    "completion_date": "2024-10-20"
+  },
+  {
+    "id": 4,
+    "title": "Try out a failure response by sending 500 HTTP status code.",
+    "user_id": 4,
+    "status": "doing",
+    "comments": [
+      {
+        "message": "Testing failure response.",
+        "created_at": "2024-07-04T13:00:00Z"
+      }
+    ],
+    "order": 1,
+    "image": "https://via.placeholder.com/150",
+    "completion_date": "2024-11-05"
+  },
+  {
+    "id": 5,
+    "title": "Use the proxy feature to send a request to a real API. Intercept traffic using Beeceptor.",
+    "user_id": 5,
+    "status": "todo",
+    "comments": [
+      {
+        "message": "Proxy feature to be tested.",
+        "created_at": "2024-07-05T14:00:00Z"
+      }
+    ],
+    "order": 2,
+    "image": "https://via.placeholder.com/150",
+    "completion_date": "2024-12-30"
+  }
+]
